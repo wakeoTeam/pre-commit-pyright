@@ -3,6 +3,5 @@
   entry: pyright
   language: node
   types: [python]
-  pass_filenames: false
-  # require_serial: true
+  pass_filenames: true
   additional_dependencies: ["pyright@1.1.53"]
