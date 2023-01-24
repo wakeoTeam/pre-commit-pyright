@@ -4,4 +4,4 @@
   language: node
   types: [python]
   pass_filenames: true
-  additional_dependencies: ["pyright@1.1.53"]
+  additional_dependencies: ["pyright@1.1.290"]
